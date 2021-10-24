@@ -2,13 +2,13 @@
   "name": "stefanie-beta",
   "version": "7.3.6",
   "description": ".",
-  "main": "./stefanie-beta/bot.js",
+  "main": "./Not-beta-this-bot-for-only-me/bot.js",
   "scripts": {
     "start": "supervisor -s bot.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xmain12/stefanie-beta.git"
+    "url": "git+https://github.com/xmain12/Not-beta-this-bot-for-only-me.git"
   },
   "keywords": [
     "whatsapp",
