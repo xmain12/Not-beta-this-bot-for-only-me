@@ -7,7 +7,7 @@
 
 <div align="center">
   <img src="Scr/a.jpg" width="400" height="400">
-  <h1>Stefanie Beta release(vip)</h1>
+  <h1>Poo first release(vip)</h1>
   
 
 
@@ -32,7 +32,7 @@ You will only generate a QR code with the first device.
 From the first device you need to install Stefanie Bot.`
 
 #### After getting the QR code, click the button below to apply the bot...
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/xmain12/stefanie-beta)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/xmain12/Not-beta-this-bot-for-only-me)
 
 
 ## > [Sinhala Youtube Tutorial How to create heroku account](https://youtu.be/-l7z5KFLzroI)
@@ -45,6 +45,6 @@ From the first device you need to install Stefanie Bot.`
 /* # Exclusively from VIRUS FUCKER Project 
 # Do not use this fore any commercial thing
 # Do not edit (Respect to the Devaoloper) 
-# All rights reserved VIRUS FUCKER https://Wa.me/9477858811
+# All rights reserved VIRUS FUCKER https://Wa.me
 # Credit : usufusta-whatsappAsena
 */
