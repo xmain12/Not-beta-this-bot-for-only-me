@@ -6,7 +6,7 @@
 [![Sinhala](https://img.shields.io/badge/Select-Sinhala-green.svg)](https://github.com/Kaweeshachamodk/stefanie/blob/main/README.md)
 
 <div align="center">
-  <img src="Scr/a.jpg" width="400" height="200">
+  <img src="Scr/a.jpg" width="400" height="400">
   <h1>Stefanie Beta release(vip)</h1>
   
 
